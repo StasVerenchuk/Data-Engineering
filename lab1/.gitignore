@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Docker
+*.log
+*.pid
+*.seed
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# PyCharm
+.idea/
+
+# macOS / Windows системні файли
+.DS_Store
+Thumbs.db
