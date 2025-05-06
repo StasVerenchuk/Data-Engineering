@@ -1,3 +1,10 @@
+# Віртуальне середовище Python
+venv/
+.env/
+*.pyc
+__pycache__/
+
+
 # Ignore Spark service files
 jobs/out/**/_SUCCESS
 jobs/out/**/*.crc
