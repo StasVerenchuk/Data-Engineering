@@ -1,0 +1,3 @@
+# Ignore Spark service files
+jobs/out/**/_SUCCESS
+jobs/out/**/*.crc
